@@ -4,11 +4,12 @@
     <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="myValues">
         <value>
-          <list size="4">
+          <list size="5">
             <item index="0" class="java.lang.String" itemvalue="lay-header-event" />
             <item index="1" class="java.lang.String" itemvalue="lay-filter" />
             <item index="2" class="java.lang.String" itemvalue="lay-unselect" />
             <item index="3" class="java.lang.String" itemvalue="lay-verify" />
+            <item index="4" class="java.lang.String" itemvalue="layuimini-tab-close" />
           </list>
         </value>
       </option>
@@ -17,7 +18,7 @@
     <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="myValues">
         <value>
-          <list size="8">
+          <list size="9">
             <item index="0" class="java.lang.String" itemvalue="nobr" />
             <item index="1" class="java.lang.String" itemvalue="noembed" />
             <item index="2" class="java.lang.String" itemvalue="comment" />
@@ -26,6 +27,7 @@
             <item index="5" class="java.lang.String" itemvalue="script" />
             <item index="6" class="java.lang.String" itemvalue="el-submenu" />
             <item index="7" class="java.lang.String" itemvalue="icon-menu" />
+            <item index="8" class="java.lang.String" itemvalue="li" />
           </list>
         </value>
       </option>
